@@ -1,0 +1,54 @@
+.ordos {
+  padding: 3rem;
+}
+
+.ordos h1 {
+  text-align: center;
+  font-size: 4rem;
+  color: #a5ec22;
+}
+
+.ordos .best {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 2px solid white;
+}
+
+.ordos h2 {
+  font-size: 3rem;
+  color: #8850d1;
+  border-right: 5px solid #521c99;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+.best ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.best li {
+  margin-left: 1rem;
+  list-style: none;
+}
+
+.best span {
+  color: #d7e055;
+  font-size: 1.5rem;
+}
+
+.best img {
+  border-radius: 50%;
+}
+
+.ordo p {
+  font-size: 2rem;
+}
+
+.img-title {
+  color: #a5ec22;
+}

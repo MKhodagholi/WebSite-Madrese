@@ -1,0 +1,34 @@
+.newses {
+  padding: 3rem;
+}
+
+.newses h1 {
+  text-align: center;
+  color: #a5ec22;
+  font-size: 4rem;
+}
+
+.news {
+  width: 80%;
+  margin: 2rem auto;
+  border: 2px solid white;
+  padding: 2rem;
+}
+
+.news h2 {
+  color: #8850d1;
+  border-right: 5px solid #521c99;
+  padding-right: 10px;
+  border-radius: 10px;
+  font-size: 3rem;
+}
+
+.news p {
+  font-size: 2rem;
+}
+
+.news a {
+  text-decoration: none;
+  color: #a5ec22;
+  font-size: 2rem;
+}

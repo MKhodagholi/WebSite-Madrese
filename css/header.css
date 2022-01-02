@@ -1,0 +1,33 @@
+body {
+  direction: rtl;
+  background-color: #111;
+  color: white;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  background-color: #000;
+  padding: 2rem;
+  justify-content: space-between;
+}
+
+header ul {
+  display: flex;
+  margin: 0;
+}
+
+header li {
+  list-style: none;
+}
+
+header a {
+  text-decoration: none;
+  color: #11d68a;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+hr {
+  margin: 0;
+}
